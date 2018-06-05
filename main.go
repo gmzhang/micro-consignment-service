@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "micro-consignment-service/proto/consignment"
+	pb "github.com/gmzhang/micro-consignment-service/proto/consignment"
 	"golang.org/x/net/context"
 	"net"
 	"github.com/labstack/gommon/log"
